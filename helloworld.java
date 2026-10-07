@@ -1,5 +1,5 @@
 public class helloworld {
    public static void main(String[] args) {
-    System.out.println("Hello World from GitHub. with scm activated");
+    System.out.println("Hello World from GitHub. with Webhook Activated");
     }
 }
